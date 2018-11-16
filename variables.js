@@ -1,2 +1,2 @@
-example = 'some string';
-console.log(example);
+example = 'some string'
+console.log(example)

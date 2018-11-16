@@ -1,2 +1,2 @@
-example = 'example string';
-console.log(example.length);
+example = 'example string'
+console.log(example.length)

@@ -1,2 +1,2 @@
-pizzaToppings = ['tomato sauce', 'cheese', 'pepperoni'];
-console.log(pizzaToppings);
+pizzaToppings = ['tomato sauce', 'cheese', 'pepperoni']
+console.log(pizzaToppings)

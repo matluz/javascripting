@@ -1,1 +1,1 @@
-# javascripting
+Basics of JavaScript 
